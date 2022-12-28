@@ -11,13 +11,13 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
-   height="297mm"
-   viewBox="0 0 42.000001 59.399998"
+   height="298mm"
+   viewBox="0 0 42.000001 59.599998"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="affiche_pour_vrtucar_users.svg"
-   inkscape:export-filename="/home/jlam/Dropbox/vrtucar/affiche_pour_vrtucar_users.svg.png"
+   inkscape:export-filename="/home/jlam/code/etc/affiche_pour_vrtucar_users.png"
    inkscape:export-xdpi="300.01883"
    inkscape:export-ydpi="300.01883">
   <defs
@@ -27,11 +27,11 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1210937"
-     inkscape:cx="417.98077"
-     inkscape:cy="217.65773"
+     inkscape:zoom="0.63480569"
+     inkscape:cx="69.433185"
+     inkscape:cy="526.18103"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,7 +57,8 @@
   <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,0.2)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.96055603px;line-height:125%;font-family:Jura;-inkscape-font-specification:Jura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05291667px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -72,39 +73,20 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot819"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.99999237px;line-height:125%;font-family:Jura;-inkscape-font-specification:Jura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.04856435,0,0,0.04856435,2.6413529,1.5558188)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.73564911px;line-height:125%;font-family:Jura;-inkscape-font-specification:Jura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.04856435,0,0,0.04856435,4.0537776,1.555824)"><flowRegion
          id="flowRegion821"><rect
            id="rect823"
-           width="774.24384"
-           height="866.11847"
+           width="738.19812"
+           height="582.90228"
            x="8.9198608"
            y="5.7531028" /></flowRegion><flowPara
-         id="flowPara825">Don't forget to sign up to the Communauto / VrtuCar FB group</flowPara><flowPara
-         id="flowPara827">-- A VrtuCar User </flowPara></flowRoot>    <image
-       y="34.974628"
-       x="9.6536961"
+         id="flowPara828">Sign up to the unofficial Communauto / VrtuCar FB group</flowPara><flowPara
+         id="flowPara834">(and feel free to take this sheet with you)</flowPara></flowRoot>    <image
+       y="32.522606"
+       x="9.507679"
        id="image837"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAACMCAYAAACuwEE+AAAABHNCSVQICAgIfAhkiAAAA9VJREFU
-eJzt3dtu20AMRdG66P//svs+AspukIejAHs9JrYkJwdjYq6f7/f7/SX9p9+3H0A/i4ERYmCE/Dl/
-8Pl8Vh/gLKHO+3dLrOp61ee9/XzV69PO57GFEWJghBgYIY8a5jTdTdOtGbqv79Y01fVO1d+vWyNt
-/39sYYQYGCEGRkhZw5zod3z3O7b6ju/WONM1zWm634ber0KfxxZGiIERYmCE4BomrdsPMV3T0PdP
-X/9tbGGEGBghBkbI62qYU7dfoaox0vNd0tffZgsjxMAIMTBCcA2z/Z3b7dc4bc/HoTVTdf1K+v9j
-CyPEwAgxMELKGmZ7HQzVHdvp/p7anlM8zRZGiIERYmCEPGqYnza2cequ4+muc6p+Pz02tc0WRoiB
-EWJghHzOPe6637npfgxqer+Vt+3fQtHnd38YtRgYIQZGyKOGebxgeS119/6ndM2Rnj8zXVNWz1Ox
-hRFiYIQYGCHxdUnTe8BN35/e7/b+OF3d69nCCDEwQgyMkPZZA+l9dal0TdTtJ5k++6DSfZ6TLYwQ
-AyPEwAgpx5Ieb7g8X6ZbA6Vrhsrt+TLdz28LI8TACDEwQsbn9D5uEJ7PcZrud0jPx6nulx5Lcz6M
-ogyMEAMjBPfDPC6wPIc13Y8xPRaU7mdK3/9kCyPEwAgxMELK+TDT62S292+h70+vU9quyab7dWxh
-hBgYIQZGSHtd0tvWPqfHkqb31b1d8zinV1EGRoiBEYLPGtje3+TUrXnSYzXUdI1G+5mcD6MoAyPE
-wAgpzxqYPr9ne45v9/3bc4Ap+nyOJWmVgRFiYITg/WG294xL97tMn49U6X6e239/WxghBkaIgRHS
-XludXgezvX9LZXvsbHsPwIotjBADI8TACMFzeqfXJU2vK3rbWubT9lkFdN2Vc3o1ysAIMTBCyvkw
-ldvrfG5ff/p5ttey089jCyPEwAgxMEJwP8z2+T63z1OantPctT1253wYtRgYIQZGSPvMx8r0WM7t
-Obmn6fvfrpkcS9IoAyPEwAhpjyVVtufcnrb3jNve+/+U/ry2MEIMjBADIyTeD1NJjzVtr5Pq7tcy
-fX3PGtBVBkaIgRFSzoeZ7keZrjmo6X2C03vmVffvvt79YRRlYIQYGCHttdWV7bGQ6bXI6X1vK+l1
-WpQtjBADI8TACGmf+Tjtdj/DdD8QvX56fxn3h9EqAyPEwAh5XQ1T2V5LnD6rIH3+0nS/lS2MEAMj
-xMAIae8Ps+3tZzam58s4p1c/ioERYmCElDXM7XOYqfRYVHrOcXX/NPe40ygDI8TACHmc+Sj9iy2M
-EAMjxMAI+QtT8d9IbrtgWgAAAABJRU5ErkJggg==
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAACMCAYAAACuwEE+AAAABHNCSVQICAgIfAhkiAAAA9VJREFU eJzt3dtu20AMRdG66P//svs+AspukIejAHs9JrYkJwdjYq6f7/f7/SX9p9+3H0A/i4ERYmCE/Dl/ 8Pl8Vh/gLKHO+3dLrOp61ee9/XzV69PO57GFEWJghBgYIY8a5jTdTdOtGbqv79Y01fVO1d+vWyNt /39sYYQYGCEGRkhZw5zod3z3O7b6ju/WONM1zWm634ber0KfxxZGiIERYmCE4BomrdsPMV3T0PdP X/9tbGGEGBghBkbI62qYU7dfoaox0vNd0tffZgsjxMAIMTBCcA2z/Z3b7dc4bc/HoTVTdf1K+v9j CyPEwAgxMELKGmZ7HQzVHdvp/p7anlM8zRZGiIERYmCEPGqYnza2cequ4+muc6p+Pz02tc0WRoiB EWJghHzOPe6637npfgxqer+Vt+3fQtHnd38YtRgYIQZGyKOGebxgeS119/6ndM2Rnj8zXVNWz1Ox hRFiYIQYGCHxdUnTe8BN35/e7/b+OF3d69nCCDEwQgyMkPZZA+l9dal0TdTtJ5k++6DSfZ6TLYwQ AyPEwAgpx5Ieb7g8X6ZbA6Vrhsrt+TLdz28LI8TACDEwQsbn9D5uEJ7PcZrud0jPx6nulx5Lcz6M ogyMEAMjBPfDPC6wPIc13Y8xPRaU7mdK3/9kCyPEwAgxMELK+TDT62S292+h70+vU9quyab7dWxh hBgYIQZGSHtd0tvWPqfHkqb31b1d8zinV1EGRoiBEYLPGtje3+TUrXnSYzXUdI1G+5mcD6MoAyPE wAgpzxqYPr9ne45v9/3bc4Ap+nyOJWmVgRFiYITg/WG294xL97tMn49U6X6e239/WxghBkaIgRHS XludXgezvX9LZXvsbHsPwIotjBADI8TACMFzeqfXJU2vK3rbWubT9lkFdN2Vc3o1ysAIMTBCyvkw ldvrfG5ff/p5ttey089jCyPEwAgxMEJwP8z2+T63z1OantPctT1253wYtRgYIQZGSPvMx8r0WM7t Obmn6fvfrpkcS9IoAyPEwAhpjyVVtufcnrb3jNve+/+U/ry2MEIMjBADIyTeD1NJjzVtr5Pq7tcy fX3PGtBVBkaIgRFSzoeZ7keZrjmo6X2C03vmVffvvt79YRRlYIQYGCHttdWV7bGQ6bXI6X1vK+l1 WpQtjBADI8TACGmf+Tjtdj/DdD8QvX56fxn3h9EqAyPEwAh5XQ1T2V5LnD6rIH3+0nS/lS2MEAMj xMAIae8Ps+3tZzam58s4p1c/ioERYmCElDXM7XOYqfRYVHrOcXX/NPe40ygDI8TACHmc+Sj9iy2M EAMjxMAI+QtT8d9IbrtgWgAAAABJRU5ErkJggg== "
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
        height="22.984642"
@@ -112,13 +94,13 @@ EAMjxMAI+QtT8d9IbrtgWgAAAABJRU5ErkJggg==
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.52480567px;line-height:125%;font-family:Jura;-inkscape-font-specification:Jura;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07147526px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="2.677525"
-       y="32.945946"
+       x="2.7715735"
+       y="29.682648"
        id="text842"><tspan
          sodipodi:role="line"
          id="tspan840"
-         x="2.677525"
-         y="32.945946"
+         x="2.7715735"
+         y="29.682648"
          style="font-weight:bold;stroke-width:0.07147526px">https://www.facebook.com/groups/17527512880</tspan></text>
   </g>
 </svg>
